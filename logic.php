@@ -1,7 +1,7 @@
 <?php
 ini_set('display_errors', 0);
 
-$vcurl = 'http://atq.ck.valuecommerce.com/servlet/atq/referral?sid=2219441&pid=877510753&vcptn=auct%2Fp%2FFD.RWZqlDqeHYKdLMFcQUA--&vc_url=';
+$vcurl = 'http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3146778&pid=883039550&vc_url=';
 
 // メニューリスト
 $page['gr'] = "GREE";
