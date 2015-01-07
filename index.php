@@ -156,7 +156,7 @@ header("Content-type: text/html; charset=utf-8");
 <option value="?p=mo&q=&s=<?php echo $s; ?>&o=<?php echo $o; ?>&t=<?php echo $t; ?>"<?php if($p=='mo'){?> selected<?php } ?>>モバゲー</option>
 <option value="?p=gr&q=&s=<?php echo $s; ?>&o=<?php echo $o; ?>&t=<?php echo $t; ?>"<?php if($p=='gr'){?> selected<?php } ?>>GREE</option>
 <option value="?p=mi&q=&s=<?php echo $s; ?>&o=<?php echo $o; ?>&t=<?php echo $t; ?>"<?php if($p=='mi'){?> selected<?php } ?>>mixi</option>
-<option value="?p=ne&q=&s=<?php echo $s; ?>&o=<?php echo $o; ?>&t=<?php echo $t; ?>"<?php if($p=='so'){?> selected<?php } ?>>ソーシャルゲーム</option>
+<option value="?p=so&q=&s=<?php echo $s; ?>&o=<?php echo $o; ?>&t=<?php echo $t; ?>"<?php if($p=='so'){?> selected<?php } ?>>ソーシャルゲーム</option>
 <option value="?p=ne&q=&s=<?php echo $s; ?>&o=<?php echo $o; ?>&t=<?php echo $t; ?>"<?php if($p=='ne'){?> selected<?php } ?>>オンラインゲーム</option>
 <option value="?p=ot&q=&s=<?php echo $s; ?>&o=<?php echo $o; ?>&t=<?php echo $t; ?>"<?php if($p=='ot'){?> selected<?php } ?>>その他</option>
 </select>
