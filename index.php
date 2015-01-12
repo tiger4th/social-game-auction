@@ -5,7 +5,7 @@ header("Content-type: text/html; charset=utf-8");
 ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml>
+<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <title>ソーシャルゲームオークション : GREE・モバゲー・mixiのオークションサーチ</title>
@@ -334,5 +334,7 @@ header("Content-type: text/html; charset=utf-8");
 <script type="text/javascript" src="http://adm.shinobi.jp/s/27dc07d986ae4f8a774946c6195e3af4"></script>
 <!-- admax -->
 </div>
+
+<img src="http://ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3146778&pid=883039550" height="1" width="1" border="0">
 </body>
 </html>
